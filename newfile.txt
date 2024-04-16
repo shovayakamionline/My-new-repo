@@ -1,1 +1,2 @@
 This is added first line.This is a second line.
+Added in the new branch.
